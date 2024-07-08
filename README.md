@@ -7,5 +7,4 @@ Bem-vindo ao repositório do Perfiu de link social! Este projeto é desenvolvido
 - HTML
 - CSS
 - Javascript
-# Projeto_FAQ
-# Projeto_FAQ
+
