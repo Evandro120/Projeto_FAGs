@@ -56,7 +56,7 @@ p.txt{
 .adiciona{
     display: none;
 }
-@media screen and (max-width:350px){
+@media screen and (max-width:390px){
     
     section.main{
         width: 90%;
